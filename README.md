@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumanthreddy-a
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MACHINE LEARNING
+- 🌱 I’m currently Working with MACHINE LEARNING
 - 💞️ I’m looking to collaborate on OPEN SOURCE TECH
 - 📫 How to reach me sumanthreddy512@gmail.com
 
